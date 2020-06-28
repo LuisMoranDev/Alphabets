@@ -1,0 +1,33 @@
+body{
+    font-family: 'Almarai', sans-serif;
+    background: #f7f7f7;
+}
+
+.container{
+    max-width: 800px;
+    letter-spacing: .5em;
+}
+
+h1{
+    color: #63b7af;
+}
+.letter{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.blink{
+    color: #ffd31d !important;
+}
+.lr{
+    color: #fa1616;
+}
+.lg{
+    color: #79d70f;
+}
+.lp{
+    color: #5c2a9d;
+}
+.lo{
+    color: #fa7d09;
+}
