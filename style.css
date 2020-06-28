@@ -31,3 +31,8 @@ h1{
 .lo{
     color: #fa7d09;
 }
+.btn{
+    max-width: 200px;
+    color: #ffffff;
+
+}
