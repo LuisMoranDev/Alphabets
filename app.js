@@ -12,7 +12,7 @@ let alphabets = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 let alphaPatter = []; 
 let started = false; 
 let level = 0; 
-let sleeping = 1000;
+let sleeping = 1000;adk
 // console.log(alphabets.length);
 
 const wait =(ms) => {
@@ -83,7 +83,7 @@ const checkAnswer = (currentLevel) => {
         }
     }
     else{
-        title.innerHTML = "Game Over"; 
+        title.innerHTML = "Game Over, Try Again!"; 
         body.style.backgroundColor = "#c70039";
         setTimeout(()=>{
             body.style.backgroundColor = "#f7f7f7";

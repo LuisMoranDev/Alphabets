@@ -36,3 +36,13 @@ h1{
     color: #ffffff;
 
 }
+
+@media only screen and (max-width: 375px) {
+    .container{
+        max-width: 350px;
+        letter-spacing: .5em;
+    }
+    .letter {
+        font-size: 40px !important;
+    }
+  }
