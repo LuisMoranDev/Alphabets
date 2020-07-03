@@ -12,7 +12,7 @@ let alphabets = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 let alphaPatter = []; 
 let started = false; 
 let level = 0; 
-let sleeping = 1000;adk
+let sleeping = 1000;
 // console.log(alphabets.length);
 
 const wait =(ms) => {
